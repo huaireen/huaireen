@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @huaireen
-- 👀 I’m interested in graphioc design, music, etc.
+- 👋 Hi, I’m Ivy
+- 👀 I’m interested in graphic design, music, etc.
 - 🌱 I’m currently learning about code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Mechanical Engineering Major
 - 📫 How to reach me: ig:huaireen
   
   <!---
